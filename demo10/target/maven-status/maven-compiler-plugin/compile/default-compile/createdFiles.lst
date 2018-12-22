@@ -1,0 +1,13 @@
+com\example\demo\DemoApplication.class
+com\example\demo\controller\ManuController.class
+com\example\demo\repository\ManuTypeRepository.class
+com\example\demo\controller\ManuTypeController.class
+com\example\demo\repository\ManuRepository.class
+com\example\demo\controller\BakeryTypeController.class
+com\example\demo\entity\Manu.class
+com\example\demo\repository\CoffeeTypeRepository.class
+com\example\demo\entity\CoffeeType.class
+com\example\demo\repository\BakeryTypeRepository.class
+com\example\demo\controller\CoffeeTypeeController.class
+com\example\demo\entity\BakeryType.class
+com\example\demo\entity\ManuType.class
